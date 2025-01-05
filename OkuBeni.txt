@@ -5,3 +5,4 @@ opencv
 bu 3 kütüphane gerekli
 
 Bu dizine atılacak resim test-Resim adlı kodda çalıştırılacaktır.
+ test-Video adlı kod kamera ile  çalıştırılacaktır.
