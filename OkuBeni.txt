@@ -1,0 +1,7 @@
+Keras
+Tensorflow
+opencv
+
+bu 3 kütüphane gerekli
+
+Bu dizine atılacak resim test-Resim adlı kodda çalıştırılacaktır.
